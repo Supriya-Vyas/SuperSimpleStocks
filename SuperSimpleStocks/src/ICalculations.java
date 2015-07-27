@@ -1,5 +1,3 @@
-import java.util.HashMap;
-
 public interface ICalculations {
 
 	public double calculateStockPrice(double totalTrade,double totalQnt);
